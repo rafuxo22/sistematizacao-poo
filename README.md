@@ -30,8 +30,8 @@ Estrutura do Projeto
 	•	README.md: Instruções do projeto.
 
 Exemplo de Uso
- 
- Choose an option:
+ 	•	
+Choose an option:
 1. Add Employee
 2. Get Employee
 3. Exit
@@ -42,4 +42,5 @@ Enter allergies: None
 Enter medical conditions: None
 Enter contact email: rafael.rodrigues@sempreceub.com
 Enter contact phone: 5561984614656
+
 
